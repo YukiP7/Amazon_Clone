@@ -340,9 +340,3 @@
     justify-content: space-evenly;
     padding : 6px 18px 6px 18px ;
 }
-
-@media screen and (max-width : 800px){
-    body{
-        width: 100%;
-    }
-}

@@ -340,3 +340,18 @@
     justify-content: space-evenly;
     padding : 6px 18px 6px 18px ;
 }
+
+@media screen and (max-width : 800px){
+    .navbar .panel{
+        width : 50%;
+    }
+
+    .search-input{
+        width:fit-content;
+    }
+    .hero-section .shop-section{
+        width: 50%;
+    }
+
+
+}
